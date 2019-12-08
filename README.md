@@ -8,7 +8,8 @@ My debian setup
 
 ### Github Actions service
 
-Create file `/etc/systemd/system/github-actions.service`
+Create file `/etc/systemd/system/github-actions.service` with content:  
+  
 **Service File**
 ```bash
 [Unit]
