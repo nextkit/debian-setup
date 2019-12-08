@@ -23,4 +23,6 @@ ExecStart=/<path-to-installation>/actions-runner/run.sh
 
 ### Nginx Config
 
+[Guide setup Nginx & Nodejs](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-node-js-application-for-production-on-ubuntu-16-04)
+  
 [Guide for Virtual Blocks](https://www.digitalocean.com/community/tutorials/how-to-set-up-nginx-server-blocks-virtual-hosts-on-ubuntu-16-04)
